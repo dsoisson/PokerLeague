@@ -1,0 +1,15 @@
+PODS:
+  - Disk (0.3.3)
+  - Eureka (4.1.1)
+
+DEPENDENCIES:
+  - Disk (~> 0.3.3)
+  - Eureka
+
+SPEC CHECKSUMS:
+  Disk: d1f55cd61f6ca20f368232d0c6e37e3c3dfcb63e
+  Eureka: b88fb930e42c79f8c03c373d0fcdc28c1d6c50ed
+
+PODFILE CHECKSUM: 4537ba7d019839145dd90e54a69490c9d959d0a5
+
+COCOAPODS: 1.4.0
